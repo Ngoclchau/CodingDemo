@@ -2,4 +2,4 @@
 Ngoc Chau
 ## Background
 ### Email
-this is crazy
+this is crazy, this is crazie
